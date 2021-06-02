@@ -1,1 +1,3 @@
 Kredkowy tekst
+
+Dzisiaj odbyły się zajęcia z GIT-a
